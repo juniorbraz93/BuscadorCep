@@ -6,7 +6,7 @@ Um pequeno projeto de um app em React Native para listagem de buscador CEP utili
 
 ### Api
 
-- https://docs.awesomeapi.com.br/api-de-moedas
+- https://viacep.com.br/ws/29010060/json/
 
 
 ### Features
