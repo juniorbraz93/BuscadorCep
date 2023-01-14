@@ -9,7 +9,7 @@ Um pequeno projeto de um app em React Native para listagem de buscador CEP utili
 - https://viacep.com.br/ws/29010060/json/
 
 
-### Features
+### Tec:
 
 - react-native
 - axios
